@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\startupcode",
+    "\\startupcode\\securitylibrary",
+    "\\startupcode\\securitylibrary\\MainAlgorithms",
+    "\\startupcode\\securitypackagetest",
+    "\\startupcode\\TestResults",
+    "\\startupcode\\TestResults\\Deploy_Muhammed 2022-03-02 23_08_15",
+    "\\startupcode\\TestResults\\Deploy_Muhammed 2022-03-02 23_08_40",
+    "\\startupcode\\TestResults\\Deploy_Muhammed 2022-03-02 23_08_45"
+  ],
+  "SelectedNode": "\\startupcode\\securitylibrary\\MainAlgorithms\\Columnar.cs",
+  "PreviewInSolutionExplorer": false
+}
